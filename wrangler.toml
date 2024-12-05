@@ -1,5 +1,5 @@
 # Your wrangler.toml file should look something like this:
-name = "naslovedna-BPB-Worker-Panel"
+name = "BPB-Worker-Panel"
 compatibility_date = "2024-05-12"
 compatibility_flags = ["nodejs_compat"]
 pages_build_output_dir = ".vercel/output/static"
